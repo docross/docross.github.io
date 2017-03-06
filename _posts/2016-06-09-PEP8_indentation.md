@@ -1,5 +1,5 @@
 
-<center><img src="http://currentconfig.com/images/tp_diag01.gif" alt="Underneath is for savages!" style="width:95%; height:95%"/></center>
+<center><img src="http://currentconfig.com/images/tp_diag01.gif" alt="Underneath is for savages!" style="width:45%; height:45%"/></center>
 
 While probably as conentious as the debate over the question of horizontal toilet paper dispensing orientation, there is really only one answer when asked what the proper level of indentation is for proper python coding...4 spaces!
 Note that this is spaces and not tabs.  Below I highlight how to setup a couple of the most popular editors (emacs users are a lost cause anyways) for four (4) space tab emulation.
