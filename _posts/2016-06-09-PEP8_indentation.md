@@ -4,13 +4,12 @@
 While probably as conentious as the debate over the question of horizontal toilet paper dispensing orientation, there is really only one answer when asked what the proper level of indentation is for proper python coding...4 spaces!
 Note that this is spaces and not tabs.  Below I highlight how to setup a couple of the most popular editors (emacs users are a lost cause anyways) for four (4) space tab emulation.
 
-<center><img src="/blog/images/nedit_tab_stops.png" alt="Emulating Tab Stops" style="width:50%; height:50%"/></center>
-
 ### Nedit
 <pre>
 Preferences -> Default Settings -> Tab Stops…
   Recall to 'Save Defaults...' after making your changes.
 </pre>
+<center><img src="/blog/images/nedit_tab_stops.png" alt="Emulating Tab Stops" style="width:40%; height:40%"/></center>
 ### VIM
 <pre>
   :set expandtab         insert space characters whenever the tab key is pressed
